@@ -1,2 +1,2 @@
 # Brick-Breaker
-This game is written in VHDL. It includes both VGA codes and seven segment display codes.
+This game is written in VHDL. It includes both VGA codes and seven segment display codes. The game consists of one ball, one paddle and 3 different targets which we want to hit. After we hit the target with the ball, target will be disappear. After 3 of the targets disappears, you win the game. You can see your score in the seven segment display. The more detailed information can be found in the link: https://www.youtube.com/watch?v=-ZRd-0pDHP8
